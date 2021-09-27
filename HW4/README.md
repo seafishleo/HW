@@ -21,7 +21,7 @@ Before Changes:
 After Changes:
 ![GITHUB](https://github.com/seafishleo/HW/blob/master/HW4/3.png)
 
-Only the passing percentages in Thomas High School have difference. After we removed the 9th grade student scores, the passing percentage on all sections slightly decreased.
+Only the passing percentages in Thomas High School have difference. After we removed the 9th grade student scores, the passing percentage on all sections slightly decreased except the Average Reading Score.
 
 ### 3. How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
 The performance in Thomas High School has slightly decreased but it's still close to other charter schools which have better performance than district schools.
