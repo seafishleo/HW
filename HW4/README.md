@@ -27,21 +27,19 @@ Only the passing percentages in Thomas High School have difference. After we rem
 The performance in Thomas High School has slightly decreased but it's still close to other charter schools which have better performance than district schools.
 
 ### 4. How does replacing the ninth-grade scores affect the following
-- Math and reading scores by grade: 
-Before Changes:
-![GITHUB](https://github.com/seafishleo/HW/blob/master/HW4/6_1.png)
+- Math and reading scores by grade:  
 After Changes:
 ![GITHUB](https://github.com/seafishleo/HW/blob/master/HW4/6.png)
 
 No difference after we replaced the ninth-grade score. The only thing is the ninth-grade score is None.
 
-- Scores by school spending: 
+- Scores by school spending:  
 After Changes:
 ![GITHUB](https://github.com/seafishleo/HW/blob/master/HW4/10.png)
 
 If we formatted the number to integer, we won't find out the difference. So I traced back to the pre-formatted data and find out, the "$630-644" group of average scores and passing percentage has slightly decreased.
 
-- Scores by school size: 
+- Scores by school size:  
 After Changes:
 ![GITHUB](https://github.com/seafishleo/HW/blob/master/HW4/8.png)
 
