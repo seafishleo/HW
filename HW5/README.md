@@ -24,7 +24,7 @@ The dataframe shows the different ride-sharing usage between urban and rural. Th
 ## Summary:
 - Based on the results, there are more users in the urban area, so I think the ride sharing company should increase the vehicles in each spot in the urban area.
 - The suburban and rural rides are relatively longer then in urban cities, so the company should put more sturdy vehicles in rural to deal with this situation.
-- Based on the results, although rural has higher "Average Fare per Ride" and "Average Fare per Driver", the urban areas still bring much profits than rural, so I think the ride sharing company should open more service locations in the urban area.
+- Based on the results, although rural has higher "Average Fare per Ride" and "Average Fare per Driver", the urban areas still bring more profits than rural, so I think the ride sharing company should open more service locations in the urban area.
 
 
 
