@@ -5,7 +5,7 @@
 ### Purpose:
 The purpose of this analysis is using the OpenweatherMap API and Google Maps API to list of potential travel destinations then create a travel route between the four cities as well as a marker layer map.
 
-## Results:
+## Results
 ### The Weather_Database folder with the following: 
 - The Weather_Database.ipynb file
 - The WeatherPy_Database.csv file
