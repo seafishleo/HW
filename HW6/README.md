@@ -14,10 +14,10 @@ The purpose of this analysis is using the OpenweatherMap API and Google Maps API
 - The Vacation_Search.ipynb file
 - The WeatherPy_vacation.csv file
 - The WeatherPy_vacation_map.png image
-![GITHUB](https://github.com/seafishleo/HW/blob/master/HW6/WeatherPy_vacation_map.png)
+![GITHUB](https://github.com/seafishleo/HW/blob/master/HW6/Vacation_Search/WeatherPy_vacation_map.png)
 
 ### The Vacation_Itinerary folder with the following:
 - The Vacation_Itinerary.ipynb file
 - The WeatherPy_travel_map.png image
 - The WeatherPy_travel_map_markers.png image
-![GITHUB](https://github.com/seafishleo/HW/blob/master/HW6/WeatherPy_travel_map_markers.png)
+![GITHUB](https://github.com/seafishleo/HW/blob/master/HW6/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
