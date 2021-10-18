@@ -7,13 +7,11 @@ The purpose of this analysis is using the SQL statements to query and create new
 
 ## Results:
 ### Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed:
-![GITHUB](https://github.com/seafishleo/HW/blob/master/HW7/1.png)  
 ![GITHUB](https://github.com/seafishleo/HW/blob/master/HW7/2.png)  
-![GITHUB](https://github.com/seafishleo/HW/blob/master/HW7/3.png)
--- Comparing the percent eligible retirees to their titles, it will affect the Engineering department the most which could potentially affect their ability to do research and development.
--- 30.13% of the eligible retirees could retire at any time
--- Total number of eligible mentorships will barely cover the gap of the eligible retirees.  
--- If the company will compensate the lost by training from withing, the analyst will need to widen the search parameter.
+-- Comparing the percent eligible retirees to their titles, it will affect the Engineering department the most which could potentially affect their ability to do research and development.  
+-- 30.13% of the eligible retirees could retire at any time.  
+-- Total number of eligible mentorships will barely cover the gap of the eligible retirees.    
+-- If the company will compensate the lost by training from withing, the analyst will need to widen the search parameter.  
 
 ## Summary:
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
