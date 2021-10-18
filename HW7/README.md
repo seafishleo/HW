@@ -18,7 +18,7 @@ The purpose of this analysis is using the SQL statements to query and create new
 -- There were approximately 90,398 needed to filled and mitigate the "silver tsunami" impact ahead of time.  Training employees could take more time so measuring their productivity without going through the mentorship or training could severely impact research and development.
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
--- From the query provided above, there are 29,415 Senior Engineers, 8,047 Senior Staffs and 4,503 Technical Leaders who are retirement-ready employees and can mentor the next generation of Pewlett Hackard employees.
+-- From the query provided above, there are 29,414 Senior Engineers, 28,254 Senior Staffs and 4,502 Technical Leaders who are retirement-ready employees and can mentor the next generation of Pewlett Hackard employees.
 
 
 
