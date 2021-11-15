@@ -12,7 +12,8 @@ The purpose of this analysis is using JavaScript, HTML, and CSS to build a table
 ![GITHUB](https://github.com/seafishleo/HW/blob/master/HW11/2.png)
 -- Filtered by "City"
 ![GITHUB](https://github.com/seafishleo/HW/blob/master/HW11/4.png)
-
+-- Filtered by "State" and "Shape"
+![GITHUB](https://github.com/seafishleo/HW/blob/master/HW11/5.png)
 
 ## Summary:
 ### In a summary statement, describe one drawback of this new design and two recommendations for further development.
