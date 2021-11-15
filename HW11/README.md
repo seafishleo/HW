@@ -6,8 +6,9 @@ The purpose of this analysis is using Javascript, HTML, and CSS to build a table
 
 ## Results:
 ###  Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation:
-![GITHUB](https://github.com/seafishleo/HW/blob/master/HW11/1.png)
--- Use the "Filter Search" fields to filter specific date, city, state, country, or shape of the object.
+-- Use the "Filter Search" fields to filter specific date, city, state, country, or shape of the object.  
+![GITHUB](https://github.com/seafishleo/HW/blob/master/HW11/1.png)  
+-- Filter by "State"
 ![GITHUB](https://github.com/seafishleo/HW/blob/master/HW11/2.png)
 
 
