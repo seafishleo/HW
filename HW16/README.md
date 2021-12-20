@@ -8,13 +8,13 @@ The purpose of this analysis is using the spark dataframe functions to analys wh
 ## Results:
 ### Using bulleted lists and images of DataFrames as support, address the following questions:
 ![GITHUB](https://github.com/seafishleo/HW/blob/master/HW16/1.png)  
-Checkout Times for Users:   
-How many Vine reviews and non-Vine reviews were there?  
+
+1. How many Vine reviews and non-Vine reviews were there?  
 -- Vine program: 606; non-Vine program: 50271  
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?  
+2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?  
 -- 5-star reviews with Vine program is: 257  
 5-star reviews non-Vine program is: 25187  
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?  
+3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?  
 -- Percentage of 5-star reviews with Vine program is: 42.41%  
 Percentage of 5-star reviews non-Vine program is: 50.10%  
 
