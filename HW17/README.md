@@ -27,7 +27,7 @@ The purpose of this analysis is using the algorithms to resample the dataset, vi
 
 ## Summary:
 ### Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
---  In the first four resampling models the accuracy score are not as high as the ensemble classifiers and the recall in the oversampling/undersampling/mixed models is low as well. Ensemble classifiers are better predicting modes for the credit risk analysis since they both have high accuracy and good balance of scores.
+--  In the first four resampling models the accuracy score are not as high as the ensemble classifiers, and the recall in the oversampling/undersampling/mixed models is low as well. Ensemble classifiers are better predicting modes for the credit risk analysis since they both have high accuracy rate and good balance of scores.
 
 
 
