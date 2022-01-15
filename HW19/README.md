@@ -14,12 +14,12 @@ Every Column except for IS_SUCCESSFUL.
 -- What variable(s) are neither targets nor features, and should be removed from the input data?  
 I dropeed EIN, NAME, STATUS and USE_CASE because they will have little impact to our result.
 
-### Compiling, Training, and Evaluating the Model
+### Compiling, Training, and Evaluating the Model:
 -- How many neurons, layers, and activation functions did you select for your neural network model, and why?  
 I had 2 hidden layers in my neural network. The first layer had 80 neurons, the second has 30 with an output layer. Both first and second hidden layer were the "relu" and the activation function for the output layer is "sigmoid."   
 -- Were you able to achieve the target model performance?  
+The model was not able to reach the target 75%. The accuracy for my model was 69%.   
 ![GITHUB](https://github.com/seafishleo/HW/blob/master/HW19/1.png)  
-The model was not able to reach the target 75%. The accuracy for my model was 69%.
 -- What steps did you take to try and increase model performance?  
 Attempt 1: Removed the 'USE_CASE' and 'STATUS' column. Our model can reach to 70% accuracy.
 ![GITHUB](https://github.com/seafishleo/HW/blob/master/HW19/2.png)  
