@@ -30,8 +30,7 @@ Attempt 3: Changing third activation function to "tanh." The accuracy of the mod
 
 ## Summary:
 ### Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
---  The model ended up with the best accuracy score of 70% after optimization. The initial neural network had a accuracy score of 69%. We could also optimize our neural network by removing more features or simply adding more data to the dataset to increase accuracy. I think random forest models have a faster performance than neural networks and also have a chance to avoid the data from being overfitted.
-
+--  The model ended up with the best accuracy score of 70% after optimization. The initial neural network had a accuracy score of 69%. We could also optimize our neural network by removing more features or simply adding more data to the dataset to increase accuracy.
 
 
 
